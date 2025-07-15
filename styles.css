@@ -7,10 +7,10 @@
   
   /* Variáveis */
   :root {
-    --cor-primaria: #f4d3f8;
+    --cor-primaria: #f29ffc;
     --cor-secundaria: #f9f9f9;
     --cor-texto: #333;
-    --cor-hover: #ecc5f1;
+    --cor-hover: #ed9df8;
     --borda: 8px;
     --fonte: 'Roboto', sans-serif;
   }
