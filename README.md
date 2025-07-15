@@ -1,2 +1,3 @@
-# meu-perfil
-Perfil pessoal criado como exercício do curso de HTML e CSS
+# Meu Perfil
+
+Página de perfil pessoal desenvolvida com HTML5 e CSS3 como parte do curso de desenvolvimento web. Utiliza semântica, layout responsivo e boas práticas de estruturação.
