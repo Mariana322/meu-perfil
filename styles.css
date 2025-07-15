@@ -7,10 +7,10 @@
   
   /* Variáveis */
   :root {
-    --cor-primaria: #0077cc;
+    --cor-primaria: #f4d3f8;
     --cor-secundaria: #f9f9f9;
     --cor-texto: #333;
-    --cor-hover: #005fa3;
+    --cor-hover: #ecc5f1;
     --borda: 8px;
     --fonte: 'Roboto', sans-serif;
   }
@@ -78,14 +78,6 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.05);
   }
   
-  section::before {
-    content: "◆";
-    color: #ff69b4; /* rosa claro */
-    font-size: 18px;
-    display: inline-block;
-    margin-right: 8px;
-    transform: translateY(2px); /* ajusta alinhamento vertical */
-  }
   
 
   
